@@ -1,4 +1,4 @@
-# dastan-web-midterm
+# dastan-backend-midterm
 Dastan Asanov's midterm project Com19 Backend
 
 Contact person:
